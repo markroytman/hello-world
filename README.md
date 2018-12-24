@@ -1,2 +1,4 @@
 # hello-world
-Greetings to GitHub
+Greetings Everyone
+
+I'm learning to Git.
